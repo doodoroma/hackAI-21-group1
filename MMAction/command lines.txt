@@ -1,0 +1,2 @@
+python demo/webcam_demo.py ../config.py ../checkpoint.pth ../label.txt --device cpu --camera-id 0 --average-size 1 --threshold 0.2
+python demo/demo.py ../config.py ../checkpoint.pth ../fall.mp4 ../label.txt --device cpu --font-size 200 --font-color red  --out-filename ../fall-out.mp4
