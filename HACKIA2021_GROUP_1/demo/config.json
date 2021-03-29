@@ -1,0 +1,52 @@
+{
+    "classNames": [
+        "chapeau",
+        "echarpe",
+        "gants",
+        "cle",
+        "lunettes",
+        "parapluie",
+        "telephone",
+        "telecommande",
+        "portefeuille",
+        "fire",
+        "smoke"
+    ],
+    "notificationClasses": [
+        "fire",
+        "smoke"
+    ],
+    "yolo": {
+        "confidence_level": 0.5,
+        "activated_classes": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "smsActivated": 1,
+    "teamsActivated": 1,
+    "smsConfig": {
+        "to_numbers": [
+            ""
+        ],
+        "SMS_SID": "",
+        "SMS_TOKEN": ""
+    },
+    "teamsConfig": {
+        "url": ""
+    },
+    "allowedUser": [
+        "dominique",
+        "olivier dm",
+        "adam",
+        "philippe",
+        "hughes",
+        "frank"
+    ]
+}
